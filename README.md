@@ -332,3 +332,4 @@ A.1 구글 코랩 사용법
 A.2 허깅페이스 토큰   
 A.3 OpenAI 토큰
    
+# llm-ai-app-practice
