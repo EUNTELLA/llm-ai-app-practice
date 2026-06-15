@@ -12,6 +12,8 @@
 
 - [9장 과제: Embedding, BM25, RRF](./09장/Embedding_BM25_RRF.ipynb)
 - [11장 정리](./11장/README.md)
+- [12장 정리]
+- [14장 정리]
 
 ## Hugging Face Models
 
